@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+CHIPS Explorer: [explorer.kirly.games](https://explorer.kirly.games)
